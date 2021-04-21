@@ -3,23 +3,23 @@ entries:
   custom-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-22T01:00:05.493697353+02:00"
+    created: "2021-04-22T01:15:44.325676019+02:00"
     description: A Helm chart for Kubernetes
     digest: 339121b993ff9c5a909e0f6f139dd41e9c5fe75101be9aa222a120eab6ec3881
     name: custom-chart
     type: application
     urls:
-    - https://github.com/ignpelloz/ts-hm-cs/custom-chart-0.1.0.tgz
+    - https://ignpelloz.github.io/ts-hm-cs/custom-chart-0.1.0.tgz
     version: 0.1.0
   s3-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-22T01:00:05.494181647+02:00"
+    created: "2021-04-22T01:15:44.326351375+02:00"
     description: A Helm chart for Kubernetes
     digest: b726c6bdb52a44518b4a69df159bbf3c7f65f11ed0fa3162d783cab830c32a80
     name: s3-test
     type: application
     urls:
-    - https://github.com/ignpelloz/ts-hm-cs/s3-test-0.1.0.tgz
+    - https://ignpelloz.github.io/ts-hm-cs/s3-test-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-22T01:00:05.493143259+02:00"
+generated: "2021-04-22T01:15:44.325050971+02:00"
